@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "az",
     "status": "up",
-    "uptime": "82.10%",
+    "uptime": "82.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.10%",
-    "uptimeMonth": "82.10%",
-    "uptimeYear": "82.10%",
+    "uptimeWeek": "82.32%",
+    "uptimeMonth": "82.32%",
+    "uptimeYear": "82.32%",
     "time": 616,
     "timeDay": 1039,
     "timeWeek": 616,
@@ -78,9 +78,9 @@
     "url": "$EXT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ext",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 789,
     "timeMonth": 789,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-17": 0
+    }
   }
 ]
