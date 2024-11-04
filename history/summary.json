@@ -60,7 +60,7 @@
     "slug": "az",
     "status": "down",
     "uptime": "98.01%",
-    "uptimeDay": "84.23%",
+    "uptimeDay": "84.19%",
     "uptimeWeek": "97.15%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "98.01%",
@@ -70,7 +70,7 @@
     "timeMonth": 2390,
     "timeYear": 2351,
     "dailyMinutesDown": {
-      "2024-11-04": 0,
+      "2024-11-04": 1,
       "2024-11-03": 227,
       "2024-11-01": 17,
       "2024-10-28": 43,
