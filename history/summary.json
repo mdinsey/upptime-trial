@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 116,
     "timeWeek": 98,
     "timeMonth": 90,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2025-01-22": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -60,18 +58,19 @@
     "url": "$AZ_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "az",
-    "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "98.64%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.08%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "98.60%",
-    "time": 2335,
-    "timeDay": 2735,
-    "timeWeek": 2508,
-    "timeMonth": 2285,
-    "timeYear": 2335,
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "98.61%",
+    "time": 2336,
+    "timeDay": 2612,
+    "timeWeek": 2532,
+    "timeMonth": 2293,
+    "timeYear": 2336,
     "dailyMinutesDown": {
+      "2025-01-22": 0,
       "2025-01-21": 35,
       "2025-01-18": 23,
       "2025-01-17": 20,
@@ -117,8 +116,7 @@
       "2024-09-24": 21,
       "2024-09-23": 115,
       "2024-09-18": 36,
-      "2024-09-17": 19,
-      "2024-09-16": 16
+      "2024-09-17": 19
     }
   },
   {
