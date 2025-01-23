@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 116,
-    "timeWeek": 98,
-    "timeMonth": 90,
+    "timeDay": 114,
+    "timeWeek": 97,
+    "timeMonth": 91,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 73,
-    "timeWeek": 167,
-    "timeMonth": 208,
-    "timeYear": 232,
+    "time": 231,
+    "timeDay": 117,
+    "timeWeek": 155,
+    "timeMonth": 209,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 392,
-    "timeWeek": 404,
-    "timeMonth": 344,
+    "timeDay": 357,
+    "timeWeek": 400,
+    "timeMonth": 350,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -60,17 +60,16 @@
     "slug": "az",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "97.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "98.60%",
     "time": 2335,
-    "timeDay": 2277,
-    "timeWeek": 2471,
-    "timeMonth": 2283,
+    "timeDay": 2341,
+    "timeWeek": 2525,
+    "timeMonth": 2299,
     "timeYear": 2335,
     "dailyMinutesDown": {
-      "2025-01-22": 11,
       "2025-01-21": 35,
       "2025-01-18": 23,
       "2025-01-17": 20,
@@ -116,7 +115,8 @@
       "2024-09-24": 21,
       "2024-09-23": 115,
       "2024-09-18": 36,
-      "2024-09-17": 19
+      "2024-09-17": 19,
+      "2024-09-16": 16
     }
   },
   {
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 863,
-    "timeDay": 737,
-    "timeWeek": 800,
-    "timeMonth": 858,
-    "timeYear": 863,
+    "time": 862,
+    "timeDay": 763,
+    "timeWeek": 807,
+    "timeMonth": 845,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2024-07-17": 385
     }
