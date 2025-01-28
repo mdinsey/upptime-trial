@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 83,
-    "timeWeek": 117,
+    "timeDay": 86,
+    "timeWeek": 116,
     "timeMonth": 95,
     "timeYear": 101,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 44,
-    "timeWeek": 107,
-    "timeMonth": 194,
-    "timeYear": 229,
+    "time": 230,
+    "timeDay": 509,
+    "timeWeek": 158,
+    "timeMonth": 209,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 181,
-    "timeWeek": 353,
-    "timeMonth": 343,
-    "timeYear": 323,
+    "time": 324,
+    "timeDay": 453,
+    "timeWeek": 347,
+    "timeMonth": 354,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   },
   {
@@ -60,17 +60,17 @@
     "slug": "az",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "97.58%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "97.60%",
     "uptimeYear": "98.63%",
-    "time": 2329,
-    "timeDay": 2283,
-    "timeWeek": 2403,
-    "timeMonth": 2274,
-    "timeYear": 2329,
+    "time": 2328,
+    "timeDay": 2301,
+    "timeWeek": 2401,
+    "timeMonth": 2275,
+    "timeYear": 2328,
     "dailyMinutesDown": {
-      "2025-01-27": 74,
+      "2025-01-27": 64,
       "2025-01-21": 35,
       "2025-01-18": 23,
       "2025-01-17": 20,
@@ -115,7 +115,7 @@
       "2024-09-27": 106,
       "2024-09-24": 21,
       "2024-09-23": 115,
-      "2024-09-18": 16
+      "2024-09-18": 36
     }
   },
   {
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 862,
-    "timeDay": 1164,
+    "timeDay": 769,
     "timeWeek": 812,
-    "timeMonth": 839,
+    "timeMonth": 825,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2024-07-17": 385
