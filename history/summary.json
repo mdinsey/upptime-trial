@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 101,
-    "timeDay": 69,
-    "timeWeek": 86,
-    "timeMonth": 97,
+    "timeDay": 93,
+    "timeWeek": 87,
+    "timeMonth": 96,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2025-01-29": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 351,
-    "timeWeek": 233,
-    "timeMonth": 171,
-    "timeYear": 226,
+    "time": 228,
+    "timeDay": 662,
+    "timeWeek": 311,
+    "timeMonth": 186,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 336,
-    "timeWeek": 320,
-    "timeMonth": 351,
+    "timeDay": 357,
+    "timeWeek": 354,
+    "timeMonth": 359,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -62,17 +62,16 @@
     "slug": "az",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "98.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "98.70%",
-    "time": 2318,
-    "timeDay": 2356,
-    "timeWeek": 2113,
-    "timeMonth": 2215,
-    "timeYear": 2318,
+    "time": 2317,
+    "timeDay": 2098,
+    "timeWeek": 2120,
+    "timeMonth": 2216,
+    "timeYear": 2317,
     "dailyMinutesDown": {
-      "2025-02-10": 10,
       "2025-02-04": 63,
       "2025-02-02": 150,
       "2025-02-01": 15,
@@ -120,7 +119,7 @@
       "2024-09-30": 24,
       "2024-09-29": 42,
       "2024-09-28": 17,
-      "2024-09-27": 38
+      "2024-09-27": 78
     }
   },
   {
@@ -135,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 861,
-    "timeDay": 756,
-    "timeWeek": 907,
-    "timeMonth": 847,
+    "timeDay": 898,
+    "timeWeek": 867,
+    "timeMonth": 834,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2024-07-17": 385
