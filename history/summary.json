@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 76,
-    "timeWeek": 86,
-    "timeMonth": 91,
+    "timeDay": 253,
+    "timeWeek": 112,
+    "timeMonth": 97,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2025-01-29": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 33,
-    "timeWeek": 96,
-    "timeMonth": 149,
-    "timeYear": 217,
+    "time": 216,
+    "timeDay": 34,
+    "timeWeek": 95,
+    "timeMonth": 139,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 395,
-    "timeWeek": 273,
-    "timeMonth": 310,
+    "timeDay": 362,
+    "timeWeek": 274,
+    "timeMonth": 307,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "az",
     "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "84.51%",
-    "uptimeWeek": "92.74%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "98.92%",
-    "time": 2375,
+    "uptime": "98.89%",
+    "uptimeDay": "85.40%",
+    "uptimeWeek": "92.87%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "98.89%",
+    "time": 2374,
     "timeDay": 2695,
     "timeWeek": 2505,
     "timeMonth": 2636,
-    "timeYear": 2375,
+    "timeYear": 2374,
     "dailyMinutesDown": {
-      "2025-03-07": 222,
+      "2025-03-07": 209,
       "2025-03-06": 23,
       "2025-03-05": 89,
       "2025-03-03": 112,
@@ -114,7 +114,7 @@
       "2024-11-11": 87,
       "2024-11-10": 15,
       "2024-11-05": 42,
-      "2024-11-04": 205
+      "2024-11-04": 323
     }
   },
   {
@@ -129,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 863,
-    "timeDay": 746,
-    "timeWeek": 918,
-    "timeMonth": 891,
+    "timeDay": 747,
+    "timeWeek": 920,
+    "timeMonth": 887,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2024-07-17": 385
