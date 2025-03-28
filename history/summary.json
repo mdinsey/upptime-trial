@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 82,
-    "timeWeek": 161,
-    "timeMonth": 136,
+    "timeDay": 74,
+    "timeWeek": 126,
+    "timeMonth": 135,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2025-01-29": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 81,
-    "timeWeek": 99,
-    "timeMonth": 149,
-    "timeYear": 212,
+    "time": 211,
+    "timeDay": 90,
+    "timeWeek": 107,
+    "timeMonth": 132,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 123,
-    "timeWeek": 994,
-    "timeMonth": 498,
-    "timeYear": 344,
+    "time": 345,
+    "timeDay": 519,
+    "timeWeek": 1007,
+    "timeMonth": 513,
+    "timeYear": 345,
     "dailyMinutesDown": {}
   },
   {
@@ -62,17 +62,16 @@
     "slug": "az",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "95.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "98.90%",
     "time": 2414,
-    "timeDay": 3432,
-    "timeWeek": 2430,
-    "timeMonth": 2702,
+    "timeDay": 3452,
+    "timeWeek": 2605,
+    "timeMonth": 2718,
     "timeYear": 2414,
     "dailyMinutesDown": {
-      "2025-03-27": 11,
       "2025-03-21": 18,
       "2025-03-19": 18,
       "2025-03-17": 113,
@@ -116,7 +115,7 @@
       "2024-12-09": 64,
       "2024-12-08": 34,
       "2024-12-06": 81,
-      "2024-12-02": 60
+      "2024-12-02": 82
     }
   },
   {
@@ -130,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 860,
-    "timeDay": 1095,
-    "timeWeek": 884,
-    "timeMonth": 853,
-    "timeYear": 860,
+    "time": 859,
+    "timeDay": 655,
+    "timeWeek": 870,
+    "timeMonth": 839,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2024-07-17": 385
     }
