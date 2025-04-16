@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 94,
-    "timeWeek": 116,
-    "timeMonth": 133,
+    "timeDay": 92,
+    "timeWeek": 104,
+    "timeMonth": 134,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2025-01-29": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 32,
-    "timeWeek": 98,
-    "timeMonth": 109,
-    "timeYear": 204,
+    "time": 203,
+    "timeDay": 60,
+    "timeWeek": 81,
+    "timeMonth": 104,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 445,
-    "timeWeek": 337,
-    "timeMonth": 513,
-    "timeYear": 345,
+    "time": 346,
+    "timeDay": 421,
+    "timeWeek": 350,
+    "timeMonth": 514,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   },
   {
@@ -62,17 +62,17 @@
     "slug": "az",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.00%",
     "time": 2433,
-    "timeDay": 2125,
-    "timeWeek": 2039,
-    "timeMonth": 3086,
+    "timeDay": 2322,
+    "timeWeek": 1972,
+    "timeMonth": 3117,
     "timeYear": 2433,
     "dailyMinutesDown": {
-      "2025-04-15": 26,
+      "2025-04-15": 15,
       "2025-04-08": 20,
       "2025-04-04": 25,
       "2025-04-03": 56,
@@ -116,7 +116,7 @@
       "2025-01-08": 214,
       "2025-01-07": 45,
       "2025-01-06": 85,
-      "2025-01-02": 50
+      "2025-01-02": 72
     }
   },
   {
@@ -131,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 854,
-    "timeDay": 746,
-    "timeWeek": 786,
-    "timeMonth": 792,
+    "timeDay": 813,
+    "timeWeek": 797,
+    "timeMonth": 795,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2024-07-17": 385
