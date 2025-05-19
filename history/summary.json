@@ -128,19 +128,19 @@
     "url": "$EXT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ext",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.91%",
     "time": 858,
-    "timeDay": 656,
-    "timeWeek": 924,
-    "timeMonth": 906,
+    "timeDay": 706,
+    "timeWeek": 903,
+    "timeMonth": 901,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2025-05-19": 0,
+      "2025-05-19": 13,
       "2024-07-17": 385
     }
   }
