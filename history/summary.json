@@ -60,18 +60,19 @@
     "url": "$AZ_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "az",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.62%",
-    "uptimeMonth": "95.44%",
-    "uptimeYear": "99.10%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "99.11%",
     "time": 2482,
-    "timeDay": 1074,
-    "timeWeek": 3415,
-    "timeMonth": 2964,
+    "timeDay": 1569,
+    "timeWeek": 3400,
+    "timeMonth": 2781,
     "timeYear": 2544,
     "dailyMinutesDown": {
+      "2025-08-31": 0,
       "2025-08-29": 279,
       "2025-08-26": 152,
       "2025-08-24": 314,
@@ -128,7 +129,7 @@
       "2025-03-28": 23,
       "2025-03-21": 18,
       "2025-03-19": 18,
-      "2025-03-17": 113
+      "2025-03-17": 64
     }
   },
   {
