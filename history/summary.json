@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 101,
-    "timeDay": 91,
-    "timeWeek": 91,
-    "timeMonth": 89,
-    "timeYear": 100,
+    "timeDay": 134,
+    "timeWeek": 97,
+    "timeMonth": 91,
+    "timeYear": 101,
     "dailyMinutesDown": {
       "2025-01-29": 27
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 171,
-    "timeWeek": 194,
-    "timeMonth": 179,
+    "timeDay": 179,
+    "timeWeek": 205,
+    "timeMonth": 183,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -44,18 +44,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 338,
-    "timeDay": 428,
-    "timeWeek": 278,
-    "timeMonth": 315,
+    "timeDay": 444,
+    "timeWeek": 317,
+    "timeMonth": 325,
     "timeYear": 343,
-    "dailyMinutesDown": {
-      "2025-10-10": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AZ",
@@ -64,14 +62,14 @@
     "slug": "az",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.06%",
-    "time": 2602,
-    "timeDay": 2681,
-    "timeWeek": 3695,
-    "timeMonth": 2772,
+    "time": 2600,
+    "timeDay": 1122,
+    "timeWeek": 3685,
+    "timeMonth": 2768,
     "timeYear": 2589,
     "dailyMinutesDown": {
       "2025-10-09": 27,
@@ -140,10 +138,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 949,
-    "timeDay": 1121,
-    "timeWeek": 1257,
-    "timeMonth": 1188,
-    "timeYear": 972,
+    "timeDay": 1201,
+    "timeWeek": 1223,
+    "timeMonth": 1181,
+    "timeYear": 974,
     "dailyMinutesDown": {}
   }
 ]
