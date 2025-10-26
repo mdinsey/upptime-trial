@@ -1,7 +1,7 @@
 url: $AZ_URL
-status: down
-code: 530
-responseTime: 3142
-lastUpdated: 2025-10-26T00:44:06.167Z
+status: up
+code: 200
+responseTime: 1389
+lastUpdated: 2025-10-26T02:23:23.882Z
 startTime: 2024-07-14T01:47:10.556Z
 generator: Upptime <https://github.com/upptime/upptime>
