@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 81,
-    "timeWeek": 137,
+    "timeDay": 97,
+    "timeWeek": 138,
     "timeMonth": 108,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 74,
-    "timeWeek": 128,
-    "timeMonth": 167,
-    "timeYear": 172,
+    "time": 189,
+    "timeDay": 521,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 472,
-    "timeWeek": 330,
-    "timeMonth": 300,
+    "timeDay": 235,
+    "timeWeek": 312,
+    "timeMonth": 297,
     "timeYear": 341,
     "dailyMinutesDown": {}
   },
@@ -62,17 +62,17 @@
     "slug": "az",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "95.87%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "97.99%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.02%",
     "uptimeYear": "99.08%",
-    "time": 2607,
-    "timeDay": 2912,
-    "timeWeek": 2638,
-    "timeMonth": 2897,
+    "time": 2606,
+    "timeDay": 2811,
+    "timeWeek": 2594,
+    "timeMonth": 2899,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2025-11-04": 59,
+      "2025-11-04": 48,
       "2025-11-02": 65,
       "2025-10-30": 51,
       "2025-10-26": 99,
@@ -123,7 +123,8 @@
       "2025-07-30": 290,
       "2025-07-29": 223,
       "2025-07-27": 47,
-      "2025-07-26": 87
+      "2025-07-26": 87,
+      "2025-07-25": 17
     }
   },
   {
@@ -137,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 828,
-    "timeWeek": 1074,
-    "timeMonth": 1126,
-    "timeYear": 987,
+    "time": 957,
+    "timeDay": 1431,
+    "timeWeek": 1130,
+    "timeMonth": 1138,
+    "timeYear": 989,
     "dailyMinutesDown": {}
   }
 ]
