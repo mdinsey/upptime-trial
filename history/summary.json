@@ -13,7 +13,7 @@
     "time": 120,
     "timeDay": 72,
     "timeWeek": 80,
-    "timeMonth": 72,
+    "timeMonth": 73,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-12-11": 34
@@ -33,7 +33,7 @@
     "time": 175,
     "timeDay": 106,
     "timeWeek": 218,
-    "timeMonth": 165,
+    "timeMonth": 169,
     "timeYear": 183,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 322,
     "timeDay": 273,
     "timeWeek": 257,
-    "timeMonth": 291,
+    "timeMonth": 288,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2026-02-08": 22
@@ -62,17 +62,17 @@
     "url": "$AZ_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "az",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
-    "time": 2423,
-    "timeDay": 2039,
-    "timeWeek": 1205,
-    "timeMonth": 1173,
-    "timeYear": 2454,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "92.46%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.07%",
+    "time": 2421,
+    "timeDay": 1689,
+    "timeWeek": 1222,
+    "timeMonth": 1174,
+    "timeYear": 2453,
     "dailyMinutesDown": {
       "2025-09-19": 31,
       "2025-09-21": 19,
@@ -144,7 +144,8 @@
       "2026-04-10": 115,
       "2026-04-17": 67,
       "2026-04-24": 77,
-      "2026-07-03": 0
+      "2026-07-04": 103,
+      "2026-07-03": 5
     }
   },
   {
@@ -161,7 +162,7 @@
     "time": 1054,
     "timeDay": 710,
     "timeWeek": 1038,
-    "timeMonth": 960,
+    "timeMonth": 965,
     "timeYear": 1106,
     "dailyMinutesDown": {}
   }
