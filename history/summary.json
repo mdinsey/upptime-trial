@@ -74,7 +74,7 @@
     "timeDay": 3545,
     "timeWeek": 1440,
     "timeMonth": 1168,
-    "timeYear": 2303,
+    "timeYear": 2302,
     "dailyMinutesDown": {
       "2025-09-19": 31,
       "2025-09-21": 19,
@@ -155,17 +155,19 @@
     "url": "$EXT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ext",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1075,
+    "time": 1076,
     "timeDay": 733,
     "timeWeek": 963,
     "timeMonth": 1126,
     "timeYear": 1095,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-15": 0
+    }
   }
 ]
