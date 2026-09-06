@@ -156,9 +156,9 @@
     "url": "$EXT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ext",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
@@ -169,7 +169,8 @@
     "timeYear": 1097,
     "dailyMinutesDown": {
       "2026-08-15": 17,
-      "2026-09-03": 124
+      "2026-09-03": 124,
+      "2026-09-06": 0
     }
   }
 ]
